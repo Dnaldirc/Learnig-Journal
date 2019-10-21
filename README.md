@@ -1,10 +1,27 @@
 ## Welcome to my learning journal
 
-My name is Brandon Cridland i like Dinosaurs!
+My name is Brandon Cridland i like **Dinosaurs!**
 
-### Markdown
+### Explanition
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is a journal of my code 102 class experience as a student. I will be sharing my thoughts about this class as it progresses through the week 
+
+### Growth Mindset 
+
+Here are some of the points on the growth mindset
+
+-Challenges help growth
+
+-Learn from mistakes
+
+-Be inspired by others not threatened
+
+-Never give up
+
+-feedback is contructive
+
+-Anything can be learned 
+
 
 ```markdown
 Syntax highlighted code block
