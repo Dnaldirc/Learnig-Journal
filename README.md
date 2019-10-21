@@ -1,12 +1,12 @@
 ## Welcome to my learning journal
 
-My name is Brandon Cridland i like **Dinosaurs!** alot, some o fmy hobbies are *Videogames*, Rugby and sailing.
+My name is Brandon Cridland i like **Dinosaurs!** alot, some of my hobbies are *Videogames*, Rugby and sailing.
 
 Some of my favorite Dinosaurs 
 
-1. Archaeopteryx [Image](https://images.newscientist.com/wp-content/uploads/2019/05/28150114/dga-1140282.jpg?width=300)
+1. Archaeopteryx 
 
-2. Pachycephalosaurus [Image](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/Pachycephalosaurus_right_mch8y6.jpg)
+2. Pachycephalosaurus
 
 3. Deinonychus
 
@@ -38,30 +38,5 @@ Here are some of the points on the growth mindset
 -Anything can be learned 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dnaldirc/Learnig-Journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
