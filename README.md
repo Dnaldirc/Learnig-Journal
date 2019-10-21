@@ -6,7 +6,7 @@ Some of my favorite Dinosaurs
 
 1. Archaeopteryx [Image](https://images.newscientist.com/wp-content/uploads/2019/05/28150114/dga-1140282.jpg?width=300)
 
-2. Pachycephalosaurus
+2. Pachycephalosaurus [Image](https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/Pachycephalosaurus_right_mch8y6.jpg)
 
 3. Deinonychus
 
