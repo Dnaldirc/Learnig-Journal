@@ -11,7 +11,7 @@ Some of my favorite Dinosaurs
 3. Deinonychus
 
 
-### Explanition
+### Explanation
 
 This site is a journal of my code 102 class experience as a student. I will be sharing my thoughts about this class as it progresses through the week 
 
